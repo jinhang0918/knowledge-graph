@@ -1,0 +1,230 @@
+Utility ID,Utility Name,Plant Code,Plant Name,State,County,Generator ID,Status,Technology,Prime Mover,Sector Name,Sector,Nameplate Capacity (MW),Summer Capacity (MW),Winter Capacity (MW),Operating Month,Operating Year,Number of Turbines,Predominant Turbine Manufacturer,Predominant Turbine Model Number,Design Wind Speed (mph),Wind Quality Class,Turbine Hub Height (Feet)
+2770,Terra-Gen Operating Co-Wind,54979,Big Spring Wind Power Facility,TX,Howard,WIND,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,34.3,34.3,34.3,12,1998,46,Vestas,V47-660,22.4,1,180.0
+62136,Llano Estacado Wind Ranch,55579,Llano Estacado Wind Ranch,TX,Carson,EXIS,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,80.0,80.0,80.0,12,2001,80,Mitsubishi,MWT-1000,18.3,1,213.2
+6354,FPL Energy Upton Wind LP,55581,King Mountain Wind Ranch 1,TX,Upton,EXIS,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,278.0,278.0,278.0,6,2001,214,Siemens,SWT-1.3-62,19.0,2,203.4
+13866,NWP Indian Mesa Wind Farm LP,55747,NWP Indian Mesa Wind Farm,TX,Pecos,NWP2,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,82.5,82.5,82.5,5,2001,125,Vestas,V47-660,22.4,1,164.0
+14629,Pecos Wind II LP,55795,Woodward Mountain II,TX,Pecos,01,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,78.0,78.0,78.0,7,2001,117,Vestas,Vestas V-47,22.4,1,164.0
+14628,Pecos Wind I LP,55796,Woodward Mountain I,TX,Pecos,01,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,82.0,82.0,82.0,7,2001,125,Vestas,Vestas V-47,22.4,1,164.0
+19171,Trent Wind Farm LLC,55968,Trent Wind Farm,TX,Nolan,WTG1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,152.0,152.0,152.0,7,2001,100,GE,1.5 S,18.0,2,213.3
+49796,Desert Sky Wind Farm LP,55992,Desert Sky,TX,Pecos,1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,167.7,167.7,167.7,1,2002,107,GE,1.5 S,16.5,2,212.2
+17058,Shell Wind Energy Inc.,56111,Brazos Wind Farm,TX,Scurry,GEN1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,182.4,182.4,182.4,12,2003,38,Nordex,N155/4800,17.4,2,354.0
+50123,"Leeward Asset Management, LLC",56211,Sweetwater Wind 1 LLC,TX,Nolan,SW1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,37.5,37.5,37.5,12,2003,25,GE,1.5 S,19.0,2,262.0
+50123,"Leeward Asset Management, LLC",56212,Sweetwater Wind 2 LLC,TX,Nolan,SW2,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,98.8,98.8,98.8,2,2005,61,GE,1.5 SLE,19.0,2,262.0
+49903,Aeolus Wind LLC,56225,Aeolus Wind Facility,TX,Hansford,V90,OS,Onshore Wind Turbine,WT,IPP Non-CHP,2,3.0,3.0,3.0,12,2003,1,Vestas,V90-3.0,20.0,1,262.5
+61012,AES Distributed Energy,56240,Buffalo Gap Wind Farm,TX,Taylor,1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,120.6,120.6,120.6,4,2006,67,Vestas,V80-1.8,17.0,2,196.8
+50012,"FPL Energy Callahan Wind, LLC",56270,Callahan Divide Wind Energy Center,TX,Taylor,1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,114.0,114.0,114.0,3,2005,76,GE,1.5 SLE,19.0,2,262.5
+50063,FPL Energy Horse Hollow LLC,56291,Horse Hollow Wind Energy Center,TX,Taylor,1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,213.0,213.0,213.0,12,2005,142,GE,1.5 SLE,22.0,2,279.0
+50063,FPL Energy Horse Hollow LLC,56291,Horse Hollow Wind Energy Center,TX,Taylor,2,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,223.5,223.5,223.5,6,2006,150,Siemens,SWT-2.3-93,22.0,2,262.4
+50063,FPL Energy Horse Hollow LLC,56291,Horse Hollow Wind Energy Center,TX,Taylor,3,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,299.0,299.0,299.0,6,2006,130,GE,1.5 SLE,22.0,2,279.0
+50123,"Leeward Asset Management, LLC",56311,Sweetwater Wind 3 LLC,TX,Nolan,SW3,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,135.0,144.0,144.0,12,2005,90,GE,1.5 SLE,19.0,2,262.0
+50123,"Leeward Asset Management, LLC",56337,Sweetwater Wind 4 LLC,TX,Nolan,SW4,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,241.0,241.0,241.0,5,2007,181,Mitsubishi,MWT-1000,16.5,1,230.0
+50123,"Leeward Asset Management, LLC",56372,Sweetwater Wind 5,TX,Nolan,SW5,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,80.5,80.5,80.5,12,2007,35,Siemens,SWT-2.3-82 VS,16.5,1,262.4
+56215,"RWE Renewables Americas, LLC",56394,Forest Creek Wind Farm LLC,TX,Glasscock,1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,124.2,124.2,124.2,12,2006,54,Siemens,SWT-2.3-93,18.6,2,262.4
+54759,Mesquite Wind LLC,56395,Mesquite Wind Power LLC,TX,Shackelford,1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,200.0,200.0,200.0,11,2007,97,Gamesa,G87-2.0,19.0,2,255.0
+64668,"Wildorado Wind, LLC",56432,Wildorado Wind LLC,TX,Oldham,1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,161.0,161.0,161.0,4,2007,70,Siemens,SWT-2.3-93,19.0,2,262.4
+54870,FPL Energy Red Canyon LLC,56457,Post Wind Farm LP,TX,Borden,1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,84.0,84.0,84.0,4,2006,56,GE,1.5 SLE,19.0,2,262.5
+56215,"RWE Renewables Americas, LLC",56479,Sand Bluff Wind Farm,TX,Glasscock,2,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,89.5,89.5,89.5,1,2007,37,Gamesa,G87-2.0,18.6,2,255.9
+54759,Mesquite Wind LLC,56483,Post Oak Wind LLC,TX,Shackelford,1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,200.0,200.0,200.0,3,2008,98,Gamesa,G87-2.0,19.0,2,255.0
+61012,AES Distributed Energy,56484,Buffalo Gap 2 Wind Farm,TX,Nolan,1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,232.5,232.5,232.5,7,2007,155,GE,1.5 S,17.0,2,201.0
+49893,Invenergy Services LLC,56506,Scurry County Wind LP,TX,Scurry,SCW,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,130.5,130.5,130.5,5,2007,87,GE,1.5 SLE,18.6,2,263.0
+65983,UPC Power Solutions,56560,Porterhouse Wind (4) LLC,TX,Hansford,JDW4,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,79.8,79.8,79.8,1,2008,38,Suzlon,S88-2100,19.1,2,262.4
+65983,UPC Power Solutions,56561,Filet Wind (5) LLC,TX,Sherman,JDW5,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,10.0,10.0,10.0,11,2006,8,Suzlon,S64-1250,20.0,2,244.4
+65983,UPC Power Solutions,56562,Tenderloin Wind (6) LLC,TX,Sherman,JDW6,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,10.0,10.0,10.0,1,2007,8,Suzlon,S64-1250,20.0,2,244.4
+56215,"RWE Renewables Americas, LLC",56592,Champion Wind Farm LLC,TX,Nolan,CH1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,126.5,126.5,126.5,2,2008,51,Siemens,SWT-2.3-93,18.6,2,262.4
+56215,"RWE Renewables Americas, LLC",56593,Roscoe Wind Farm LLC,TX,Nolan,RO1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,209.0,209.0,209.0,2,2008,209,Mitsubishi,MWT-1000A,18.3,2,226.4
+61012,AES Distributed Energy,56638,Buffalo Gap 3 Wind Farm,TX,Nolan,GEN1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,170.2,170.2,170.2,8,2008,74,Siemens,SWT-1.3-62,17.0,1,262.0
+49893,Invenergy Services LLC,56644,Stanton Wind Energy LLC,TX,Martin,1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,120.0,120.0,120.0,2,2008,80,GE,1.5 SLE,17.4,2,263.0
+58353,NextEra Energy Majestic Wind,56648,Majestic 1 Wind Farm,TX,Carson,1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,79.5,79.5,79.5,1,2009,53,GE,1.5 SLE,19.0,2,262.5
+55397,NRG Energy Inc,56649,South Trent Wind Farm,TX,Nolan,1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,101.2,101.2,101.2,1,2009,44,Siemens,SWT-2.3-93,20.0,2,240.0
+56545,Pattern Operators LP,56661,Pattern Gulf Wind,TX,Kenedy,1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,283.2,283.2,283.2,12,2008,118,Mitsubishi,MWT-95/2.4,19.0,2,262.4
+55922,Whirlwind Energy LLC,56673,Whirlwind Energy Center,TX,Floyd,WEC,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,59.8,57.0,57.0,12,2007,26,Siemens,SWT-2.3-93,17.7,2,262.4
+64644,Goat Wind LP,56754,Goat Wind LP,TX,Sterling,1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,80.0,80.0,80.0,4,2008,80,Mitsubishi,MWT-1000A,19.0,2,226.0
+64644,Goat Wind LP,56754,Goat Wind LP,TX,Sterling,2,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,69.6,69.6,69.6,6,2009,29,Mitsubishi,MWT-95/2.4,19.0,2,262.4
+55958,Capricorn Ridge Wind LLC,56763,Capricorn Ridge Wind LLC,TX,Sterling,1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,149.5,149.5,149.5,11,2007,65,GE,1.5 SLE,19.0,2,262.4
+55958,Capricorn Ridge Wind LLC,56763,Capricorn Ridge Wind LLC,TX,Sterling,2,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,214.5,214.5,214.5,11,2007,143,Siemens,SWT-2.3-82,19.0,2,262.4
+55958,Capricorn Ridge Wind LLC,56763,Capricorn Ridge Wind LLC,TX,Sterling,3,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,186.0,186.0,186.0,4,2008,124,GE,1.5 SLE,19.0,2,262.4
+55958,Capricorn Ridge Wind LLC,56763,Capricorn Ridge Wind LLC,TX,Sterling,4,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,112.5,112.5,112.5,5,2008,75,GE,1.5 SLE,19.0,2,262.4
+62076,Silver Star I Power Partners LLC,56771,Silver Star I Wind Power Project,TX,Erath,1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,52.8,52.8,52.8,9,2008,24,Vestas,V110-2.0,19.0,2,262.4
+49893,Invenergy Services LLC,56773,McAdoo Wind Energy LLC,TX,Dickens,1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,150.0,150.0,150.0,9,2008,100,GE,1.5 SLE,19.5,2,263.0
+49893,Invenergy Services LLC,56774,Turkey Track Wind Energy LLC,TX,Nolan,1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,169.5,169.5,169.5,11,2008,113,GE,1.5 SLE,17.4,2,263.0
+49893,Invenergy Services LLC,56775,Scurry County Wind II,TX,Scurry,1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,120.0,120.0,120.0,12,2007,80,GE,1.5 SLE,18.6,2,263.0
+49893,Invenergy Services LLC,56776,Gunsight Mountain Wind Energy LLC,TX,Howard,1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,120.0,120.0,120.0,6,2016,67,GE,1.79-100,17.9,2,262.4
+55981,Elbow Creek Wind Project LLC,56783,Elbow Creek Wind Project LLC,TX,Howard,1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,121.9,121.9,121.9,12,2008,53,Siemens,SWT-2.3-93,27.0,2,240.0
+15399,Avangrid Renewables LLC,56795,Penascal Wind Power LLC,TX,Kenedy,1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,201.6,201.6,201.6,4,2009,84,Mitsubishi,MWT-92/2.4,16.9,3,262.0
+56033,Hackberry Wind LLC,56823,Hackberry Wind Farm,TX,Shackelford,HWFG1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,165.6,162.3,162.3,12,2008,72,Siemens,SWT-2.3-93,15.6,2,262.4
+65983,UPC Power Solutions,56835,Ribeye Wind (11) LLC,TX,Moore,1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,10.0,10.0,10.0,5,2008,8,Suzlon,S64-1250,18.1,2,244.4
+65983,UPC Power Solutions,56836,T-Bone Wind (10) LLC,TX,Moore,1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,8.8,8.8,8.8,5,2008,7,Suzlon,S64-1250,18.1,2,244.4
+65983,UPC Power Solutions,56837,Tri-Tip Wind (9) LLC,TX,Moore,1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,10.0,10.0,10.0,4,2008,8,Suzlon,S64-1250,18.1,2,241.1
+65983,UPC Power Solutions,56838,Brisket Wind (8) LLC,TX,Moore,1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,10.0,10.0,10.0,4,2008,8,Suzlon,S64-1250,18.1,2,241.1
+65983,UPC Power Solutions,56839,Flat Iron Wind (7) LLC,TX,Moore,1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,10.0,10.0,10.0,4,2008,8,Suzlon,S64-1250,18.1,2,244.4
+61671,Great Plains Windpark Legacy LLC,56905,Great Plains Windpark LLC,TX,Hansford,1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,114.0,114.0,114.0,1,2009,76,GE,1.5 SLE,19.0,2,262.0
+56215,"RWE Renewables Americas, LLC",56920,Panther Creek Wind Farm I,TX,Howard,1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,142.5,142.5,142.5,7,2008,95,GE,1.5 SLE,18.8,2,262.4
+56215,"RWE Renewables Americas, LLC",56921,Panther Creek Wind Farm II,TX,Glasscock,1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,115.5,115.5,115.5,12,2008,77,GE,1.5 SLE,18.1,2,262.4
+56222,Bull Creek Wind LLC,56956,Bull Creek Wind,TX,Borden,001,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,180.0,180.0,180.0,12,2008,180,Mitsubishi,MWT-62/1.0,19.0,2,226.0
+65411,Duke Energy Renewables Services,56959,Ocotillo Windpower,TX,Howard,OWF,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,58.8,58.8,58.8,9,2008,28,Suzlon,S88-2100,14.9,2,272.0
+65411,Duke Energy Renewables Services,56961,Notrees Windpower Hybrid,TX,Ector,GE,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,60.0,60.0,60.0,4,2009,40,GE,1.5 SLE,15.0,2,272.0
+65411,Duke Energy Renewables Services,56961,Notrees Windpower Hybrid,TX,Ector,VESTA,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,92.5,92.5,92.5,4,2009,56,Vestas,V82-1.65,15.8,2,272.0
+56215,"RWE Renewables Americas, LLC",56979,Panther Creek Wind Farm Three,TX,Sterling,1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,215.5,231.5,231.5,8,2009,133,GE,1.5 SLE,18.1,2,262.4
+56215,"RWE Renewables Americas, LLC",56981,Pyron Wind Farm LLC Hybrid,TX,Fisher,1,OA,Onshore Wind Turbine,WT,IPP Non-CHP,2,249.0,249.0,249.0,2,2009,166,GE,1.5 SLE,18.8,2,262.4
+56215,"RWE Renewables Americas, LLC",56983,Papalote Creek I LLC,TX,San Patricio,1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,180.0,180.0,180.0,9,2009,109,Vestas,V82-1.65,17.4,2,262.4
+56215,"RWE Renewables Americas, LLC",56984,Inadale Wind Farm LLC Hybrid,TX,Nolan,1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,197.0,197.0,197.0,9,2009,197,Mitsubishi,MWT-1000A,18.1,2,226.4
+15399,Avangrid Renewables LLC,57095,Penascal II Wind Project LLC,TX,Kenedy,1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,201.6,201.6,201.6,3,2010,84,Mitsubishi,MWT-92/2.4,16.5,3,262.0
+56506,Langford Wind Power LLC,57153,Langford Wind Power,TX,Tom Green,1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,150.0,150.0,150.0,12,2009,100,GE,1.5 SLE,18.2,2,262.0
+15399,Avangrid Renewables LLC,57156,Barton Chapel Wind Farm,TX,Jack,BC,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,120.0,120.0,120.0,1,2009,60,Gamesa,G87-2.0,15.0,3,256.0
+56215,"RWE Renewables Americas, LLC",57212,Papalote Creek II LLC,TX,San Patricio,1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,200.1,200.1,200.1,12,2010,87,Siemens,SWT-2.3-101,16.8,2,262.4
+64634,"Cedro Hill Wind, LLC",57260,Cedro Hill Wind LLC,TX,Webb,1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,150.0,150.0,150.0,12,2010,150,GE,1.5 XLE,17.0,3,262.4
+64634,"Cedro Hill Wind, LLC",57260,Cedro Hill Wind LLC,TX,Webb,2,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,150.0,150.0,150.0,12,2010,150,GE,1.5 XLE,17.0,3,262.4
+65609,Everpoint Services Inc,57263,Little Pringle I Wind Farm,TX,Hutchinson,LP1,OS,Onshore Wind Turbine,WT,IPP Non-CHP,2,10.0,10.0,10.0,10,2010,5,DeWind,D8.2,19.7,2,262.5
+65609,Everpoint Services Inc,57264,Little Pringle II Wind Farm,TX,Hutchinson,LP2,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,10.0,10.0,10.0,10,2010,5,DeWind,D8.2,19.7,2,262.5
+56667,Loraine Windpower Project,57303,Loraine Windpark Project LLC,TX,Mitchell,LWG1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,75.0,73.5,73.5,10,2009,49,GE,1.5 SLE,15.8,2,262.0
+56667,Loraine Windpower Project,57303,Loraine Windpark Project LLC,TX,Mitchell,LWG2,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,75.0,75.0,75.0,10,2009,50,GE,1.5 SLE,15.8,2,262.0
+56680,Diamond Shamrock Refining Company LP,57326,Sunray Wind I,TX,Moore,WND1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,49.5,49.5,49.5,9,2009,33,GE,1.5 SLE,16.9,2,270.0
+62077,Sherbino II Wind Farm LLC,57415,Sherbino II,TX,Pecos,1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,132.0,132.0,132.0,11,2011,60,Vestas,V110-2.0,19.0,2,262.4
+56790,Ralls Wind Farm LLC,57474,Ralls Wind Farm,TX,Crosby,1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,10.0,10.0,10.0,7,2011,5,SANY,SE8720IIIE,18.5,2,255.9
+56627,DeWind Co.,57517,DeWind Frisco,TX,Hansford,FRISC,OS,Onshore Wind Turbine,WT,IPP Non-CHP,2,20.0,20.0,20.0,2,2012,10,DeWind,D8.2,19.2,2,262.5
+62075,Trinity Hills Wind Farm LLC,57520,Trinity Hills,TX,Young,1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,198.0,198.0,198.0,12,2011,90,Vestas,V110-2.0,19.0,2,262.4
+56946,Hidalgo Wind Farm LLC,57617,Hidalgo Wind Farm LLC,TX,Hidalgo,GEN1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,250.0,250.0,250.0,12,2016,75,Vestas,V110-2.0,19.0,3,273.0
+65411,Duke Energy Renewables Services,57751,Los Vientos Wind 1A,TX,Cameron,1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,200.0,200.0,200.0,12,2012,87,Siemens,SWT-2.3-108,13.9,2,272.0
+65411,Duke Energy Renewables Services,57752,Los Vientos Wind 1B,TX,Cameron,1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,201.6,201.6,201.6,12,2012,84,Mitsubishi,MWT-102/2.4,14.8,2,272.0
+56215,"RWE Renewables Americas, LLC",57802,Magic Valley Wind Farm I LLC,TX,Willacy,MV1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,203.0,203.0,203.0,9,2012,112,Vestas,V100-1.8,16.6,3,262.4
+7349,"Golden Spread Electric Cooperative, Inc",57866,Golden Spread Panhandle Wnd Rch,TX,Oldham,PWR,OP,Onshore Wind Turbine,WT,Electric Utility,1,78.2,78.2,78.2,9,2011,34,Siemens,SWT-2.3-101,19.3,2,262.4
+15399,Avangrid Renewables LLC,57927,Baffin Wind,TX,Kenedy,1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,188.0,188.0,188.0,12,2014,101,Gamesa,G97-2.0,15.7,3,295.0
+57170,"EDF Renewable Asset Holdings, Inc.",57973,Spinning Spur Wind LLC,TX,Oldham,GEN1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,161.0,161.0,161.0,11,2012,70,Siemens,SWT-2.3-101,19.0,2,262.4
+57170,"EDF Renewable Asset Holdings, Inc.",57974,Bobcat Bluff Wind Project LLC,TX,Archer,GEN1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,161.0,161.0,161.0,12,2012,100,GE,1.5 SLE,19.0,2,262.4
+59050,Algonquin Power Co,57981,Senate Wind LLC,TX,Jack,GEN1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,150.0,150.0,150.0,12,2012,75,Gamesa,G90-2.0,18.1,2,328.1
+57355,Stephens Ranch Wind Energy LLC,57983,Stephens Ranch Wind Energy LLC,TX,Borden,1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,211.0,211.0,211.0,12,2014,118,GE,1.79-100,14.9,2,262.5
+57355,Stephens Ranch Wind Energy LLC,57983,Stephens Ranch Wind Energy LLC,TX,Borden,2,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,165.0,165.0,165.0,4,2015,92,GE,1.79-100,14.9,2,262.5
+56215,"RWE Renewables Americas, LLC",58000,"Anacacho Wind Farm, LLC",TX,Kinney,ANA,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,99.8,99.8,99.8,12,2012,55,Vestas,V100-1.8,17.0,3,262.4
+57398,"Whitetail Wind Energy, LLC",58021,Whitetail,TX,Webb,1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,92.0,92.3,92.3,12,2012,57,GE,1.6-82.5,13.6,2,262.5
+57421,"Chopin Wind, LLC",58048,BayWa r.e Mozart LLC,TX,Kent,1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,30.0,30.0,30.0,12,2012,12,Nordex,N100/2500,19.0,2,262.4
+57460,NextEra Wolf Ridge LLC,58080,Wolf Ridge Wind,TX,Cooke,1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,112.5,112.5,112.5,8,2008,75,GE,1.5 XLE,16.8,3,262.5
+58134,Cirrus Wind 1 LLC,58162,Cirrus Wind 1 LLC,TX,Lynn,CW,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,61.2,61.2,61.2,12,2012,17,CCWE,CCWE-3600/115.D,14.0,2,279.0
+56545,Pattern Operators LP,58242,Pattern Panhandle Wind LLC,TX,Carson,1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,218.0,218.0,218.0,7,2014,118,GE,1.85-87,19.0,2,262.4
+49893,Invenergy Services LLC,58321,Goldthwaite Wind Energy Facility,TX,Mills,1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,150.0,150.0,150.0,12,2013,85,GE,1.7-100,16.8,3,263.0
+58353,NextEra Energy Majestic Wind,58363,Majestic II Wind,TX,Carson,WND1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,79.6,79.6,79.6,8,2012,51,GE,1.6 XLE,16.8,2,262.5
+58360,Blue Summit Wind LLC,58372,Blue Summit Wind LLC,TX,Wilbarger,GEN1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,135.4,135.4,135.4,12,2012,85,GE,1.6 XLE,16.8,2,262.5
+58388,Pantex (NNSA),58404,Pantex,TX,Carson,1,OP,Onshore Wind Turbine,WT,Commercial Non-CHP,4,11.5,11.5,11.5,6,2014,5,Siemens,SWT-2.3-101,27.0,2,262.4
+56215,"RWE Renewables Americas, LLC",58596,"Grandview Wind Farm, LLC",TX,Carson,GRVWI,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,211.2,211.2,211.2,12,2014,118,GE,1.7-100,16.3,3,262.4
+15399,Avangrid Renewables LLC,58614,Patriot Wind Farm,TX,Nueces,PAT1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,226.1,226.1,226.1,6,2019,63,Vestas,V136-3.6,14.9,3,285.0
+60453,Onward Energy,58681,Route 66 Wind Plant,TX,Carson,RT661,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,150.0,150.0,150.0,8,2015,75,Vestas,V110-2.0,16.7,3,262.4
+56545,Pattern Operators LP,58720,Pattern Panhandle Wind 2 LLC,TX,Carson,1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,181.7,181.7,181.7,11,2014,79,Siemens,SWT-2.3-108,19.0,2,262.4
+49893,Invenergy Services LLC,58765,Miami Wind Energy Center,TX,Roberts,1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,288.6,288.6,288.6,8,2014,156,GE,1.85-87,19.1,2,262.4
+17650,Southern Power Co,58766,Wake Wind Energy Center,TX,Crosby,1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,257.3,257.0,257.0,10,2016,150,GE,1.7-103,19.2,3,262.4
+66100,Boralex US Operations LLC,58772,Longhorn Wind,TX,Briscoe,GEN1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,200.0,200.0,200.0,5,2015,100,Vestas,V100-2.0,19.0,2,262.4
+57170,"EDF Renewable Asset Holdings, Inc.",58773,TX Hereford Wind,TX,Deaf Smith,GEN1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,200.0,200.0,200.0,12,2014,87,GE,1.85-82.5,19.0,2,262.4
+57170,"EDF Renewable Asset Holdings, Inc.",58774,Spinning Spur Wind II,TX,Oldham,GEN1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,161.0,161.0,161.0,7,2014,85,GE,1.6-82.5,19.0,2,262.4
+66100,Boralex US Operations LLC,58775,Spinning Spur Wind III,TX,Oldham,GEN1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,194.0,194.0,194.0,9,2015,97,Vestas,V100-2.0,19.0,2,262.4
+62969,"Keechi Wind, LLC",58838,Keechi Wind,TX,Jack,KW1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,110.0,110.0,110.0,1,2015,55,Vestas,V100-2.0,19.0,2,328.0
+59359,"BHE Renewables, LLC",59005,Mariah del Norte,TX,Parmer,MAR1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,230.4,230.4,230.4,11,2016,96,GE,2.4-107,17.5,2,262.4
+58872,Shannon Wind LLC,59034,Shannon Wind,TX,Clay,SHAN1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,204.0,204.0,204.0,12,2015,119,GE,1.7-103,16.8,3,262.5
+56215,"RWE Renewables Americas, LLC",59063,Stella Wind Farm,TX,Kenedy,WT1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,201.0,201.0,201.0,12,2018,67,Acciona,AW125/3000,17.5,2,262.4
+56215,"RWE Renewables Americas, LLC",59066,Bruennings Breeze Wind Farm,TX,Willacy,MVII,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,228.0,228.0,228.0,12,2017,76,Acciona,AW100/3000,17.1,4,287.0
+56215,"RWE Renewables Americas, LLC",59068,"Colbeck's Corner, LLC",TX,Carson,GVII,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,200.0,200.0,200.0,5,2016,112,GE,1.79-100,19.0,2,262.0
+58939,Cameron Wind 1 LLC,59118,Cameron Wind 1 LLC,TX,Cameron,CAM1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,165.0,165.0,165.0,12,2015,55,Acciona,AW125/3000,15.0,2,287.0
+58998,Chapman Ranch Wind LLC,59193,Chapman Ranch Wind I,TX,Nueces,CHA1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,236.0,249.0,249.0,10,2017,81,Acciona,AW125/3000,15.4,3,287.0
+57170,"EDF Renewable Asset Holdings, Inc.",59238,Windthorst-2,TX,Archer,WND2,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,67.6,67.6,67.6,9,2014,28,Siemens,SWT-2.3-108,17.5,2,262.4
+61133,"Lorenzo Wind, LLC",59244,Lorenzo Wind,TX,Crosby,FIBE1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,80.0,80.0,80.0,12,2018,29,GE,2.3-116,19.0,2,200.0
+60042,Fluvanna Wind Energy LLC,59245,Fluvanna,TX,Scurry,FLUV1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,155.4,155.4,155.4,11,2017,74,Gamesa,G114-2.0,18.0,3,262.0
+17718,Southwestern Public Service Co,59247,Hale Community Wind Farm,TX,Hale,HALE1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,478.0,478.0,478.0,6,2019,239,Vestas,V110-2.0,19.0,2,262.0
+65411,Duke Energy Renewables Services,59320,Los Vientos Windpower III,TX,Starr,GEN1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,200.0,200.0,200.0,4,2015,100,Vestas,V110-2.0,17.8,3,272.0
+65411,Duke Energy Renewables Services,59321,Los Vientos Windpower IV,TX,Starr,GEN1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,200.0,200.0,200.0,7,2016,100,Vestas,V110-2.0,16.7,3,272.0
+65411,Duke Energy Renewables Services,59332,Mesquite Creek Wind,TX,Dawson,MSCRK,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,211.2,211.2,211.2,4,2015,118,GE,1.7-100,18.0,3,262.5
+59155,"Evergreen Wind, LLC",59384,South Plains Wind Phase I,TX,Floyd,1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,200.0,200.0,200.0,11,2015,100,Vestas,V100-2.0,19.0,2,262.4
+59188,Pleasant Hill Wind Energy LLC,59417,Pleasant Hill Wind Energy Project,TX,Crosby,WT1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,20.0,20.0,20.0,10,2015,11,SANY,SE11020,18.5,2,255.9
+56545,Pattern Operators LP,59442,Logans Gap Wind LLC,TX,Comanche,1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,200.1,200.1,200.1,8,2015,87,Siemens,SWT-2.3-108,19.0,2,262.4
+59238,Palo Duro Wind,59475,Palo Duro Wind,TX,Ochiltree,GE1.7,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,249.9,249.9,249.9,12,2014,147,GE,1.79-100,16.5,2,262.5
+59871,"TX Jumbo Road Wind, LLC",59621,TX Jumbo Road Wind,TX,Deaf Smith,JRWND,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,299.7,299.7,299.7,4,2015,162,GE,1.85-87,20.0,2,262.4
+59428,"Sendero Wind Energy, LLC",59654,Sendero,TX,Jim Hogg,1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,78.0,78.0,78.0,12,2015,39,GE,2.0-116,14.9,3,262.5
+57416,"Acciona Energy USA Global, LLC",59712,"San Roman Wind I, LLC",TX,Cameron,SRWI,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,95.3,95.3,95.3,2,2017,31,Acciona,AW125/3000,16.8,2,287.0
+59501,"Green Pastures Wind I, LLC",59732,Green Pastures Wind I,TX,Baylor,GPI,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,150.0,150.0,150.0,4,2015,50,Acciona,AW116/3000,12.0,2,302.0
+59502,"Green Pastures Wind II, LLC",59733,Green Pastures Wind II,TX,Knox,GPII,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,150.0,150.0,150.0,10,2015,50,Acciona,AW116/3000,12.0,2,302.0
+65757,"Briscoe Wind Farm, LLC",59734,Briscoe Wind Farm,TX,Briscoe,BFW,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,150.0,150.0,150.0,10,2015,81,GE,1.85-87,19.8,2,263.0
+59139,SunEdison LLC,59943,Rattlesnake Den,TX,Glasscock,1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,207.2,207.2,207.2,7,2015,118,GE,1.7-100,19.0,3,262.4
+63428,"Bearkat Wind Energy 1, LLC",59972,Bearkat,TX,Glasscock,BRKAT,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,196.7,196.7,196.7,2,2018,57,Vestas,V126-3.45,18.5,2,285.0
+65411,Duke Energy Renewables Services,60059,Los Vientos V Wind Power,TX,Starr,1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,110.0,110.0,110.0,12,2015,55,Vestas,V110-2.0,15.0,3,272.0
+60453,Onward Energy,60087,South Plains II,TX,Floyd,SPII,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,300.0,300.0,300.0,6,2016,91,Vestas,V117-3.3,22.4,1,262.0
+59882,"Javelina Wind Energy, LLC",60104,"Javelina Wind Energy, LLC",TX,Webb,GEWTG,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,249.7,249.7,249.7,12,2015,126,GE,2.0-116,20.0,3,282.0
+59979,"Cotton Plains Wind I, LLC",60210,Cotton Plains Wind Farm,TX,Floyd,CPWF,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,50.4,50.4,50.4,3,2017,21,GE,2.4-107,18.5,2,262.0
+59999,"Rocksprings Val Verde Wind, LLC",60217,Rocksprings,TX,Val Verde,RKSP,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,149.3,149.3,149.3,9,2017,69,GE,2.3-107,18.8,2,80.0
+56215,"RWE Renewables Americas, LLC",60270,Blue Cloud Wind Energy LLC,TX,Bailey,WT1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,148.4,148.4,148.4,12,2018,150,Vestas,V126-3.45,18.0,2,285.0
+60128,"Electra Wind, LLC",60338,Electra Wind Farm,TX,Wilbarger,EWF,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,230.0,230.0,230.0,11,2016,100,GE,2.3-116,13.9,2,262.5
+60129,"Horse Creek Wind, LLC",60339,Horse Creek Wind Farm,TX,Haskell,HCWF,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,230.0,230.0,230.0,10,2016,100,GE,2.3-116,14.1,2,262.5
+60155,"Old Settler Wind, LLC",60366,Old Settler Wind,TX,Floyd,OSWF,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,151.2,151.2,151.2,4,2017,63,GE,2.4-107,18.6,2,262.0
+17650,Southern Power Co,60414,Bethel Wind Farm LLC,TX,Castro,GEN1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,276.0,276.0,276.0,1,2017,120,GE,2.3-116,19.9,2,262.4
+17650,Southern Power Co,60502,"Tyler Bluff Wind Project, LLC",TX,Cooke,GEN1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,125.6,125.0,125.0,12,2016,52,Siemens,SWT-2.3-108,17.0,2,262.4
+60384,"Javelina Wind Energy II, LLC",60645,"Javelina Wind Energy II, LLC",TX,Webb,WJ21,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,200.0,200.0,200.0,11,2016,100,GE,2.0-116,13.0,3,328.0
+17650,Southern Power Co,60657,"Salt Fork Wind Project, LLC",TX,Donley,GEN1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,174.0,174.0,174.0,12,2016,87,Vestas,V100-2.0,20.3,2,262.4
+60443,"Rattlesnake Power, LLC",60743,"Rattlesnake Power, LLC",TX,McCulloch,WT1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,160.0,160.0,160.0,9,2018,64,Goldwind,GW 109/2500,13.4,2,270.0
+60515,Astra Wind LLC,60856,Astra Wind Farm,TX,Randall,ASTRA,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,163.0,163.0,163.0,5,2017,68,GE,2.4-107,19.0,2,262.0
+60542,"Willow Springs Windfarm, LLC",60901,Willow Springs Wind Farm,TX,Haskell,WSPWF,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,250.0,250.0,250.0,11,2017,110,GE,2.5-120,16.2,4,295.3
+60543,"Dermott Wind, LLC",60902,Dermott Wind,TX,Scurry,DERM,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,253.0,253.0,253.0,7,2017,110,GE,2.3-116,15.5,4,262.5
+60617,"Buckthorn Wind Project, LLC",60983,Buckthorn Wind,TX,Erath,BWIND,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,100.5,100.5,100.5,12,2017,29,Vestas,V126-3.45,19.2,3,298.0
+59359,"BHE Renewables, LLC",60987,Santa Rita Wind Energy,TX,Reagan,GEN1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,300.0,300.0,300.0,4,2018,120,GE,2.5-120,19.2,2,456.0
+17650,Southern Power Co,61001,Cactus Flats Wind Energy Project,TX,Concho,WT1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,148.4,148.4,148.4,7,2018,43,Vestas,V126-3.45,18.0,2,285.0
+63074,Scout Clean Energy LLC,61032,Heart of Texas Wind Project,TX,McCulloch,HTX,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,180.0,180.0,180.0,5,2020,64,GE,2.82-127,19.2,2,291.9
+59359,"BHE Renewables, LLC",61212,Flat Top Wind I,TX,Mills,FTWI,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,200.0,200.0,200.0,1,2018,100,Vestas,V110-2.0,15.5,3,312.0
+15399,Avangrid Renewables LLC,61343,Karankawa Wind LLC,TX,San Patricio,WT1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,307.1,307.1,307.1,11,2019,124,GE,2.5-127,15.1,3,90.0
+61037,"Foard City Wind, LLC",61402,Foard City Wind,TX,Foard,FOARD,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,352.8,350.3,350.3,9,2019,139,GE,2.5-127,16.8,2,88.0
+61054,Fluvanna Wind Energy 2 LLC,61417,Gopher Creek Wind Farm,TX,Borden,GCWF,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,158.0,158.0,158.0,9,2019,76,Vestas,V110-2.0,19.0,2,262.0
+61188,West Texas A&M University,61589,UL Advanced Wind Turbine Test Facility,TX,Randall,MT-1,OP,Onshore Wind Turbine,WT,Commercial Non-CHP,4,0.1,0.1,0.1,1,2016,1,Renewtech,WT100,19.0,2,120.0
+61188,West Texas A&M University,61589,UL Advanced Wind Turbine Test Facility,TX,Randall,UT-1,OP,Onshore Wind Turbine,WT,Commercial Non-CHP,4,3.4,3.4,3.4,7,2018,1,Goldwind,GW 121/2500,23.5,2,426.0
+61291,"Wildcat Ranch Wind Project, LLC",61674,Wildcat Ranch Wind Project,TX,Cochran,WT,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,150.0,150.0,150.0,12,2018,65,GE,2.3-116,19.0,2,200.0
+57416,"Acciona Energy USA Global, LLC",61773,"Palmas Wind, LLC",TX,Cameron,PW,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,144.9,142.6,142.6,11,2020,46,Acciona,AW125/3000,16.3,2,280.0
+61396,"Midway Wind, LLC",61776,"Midway Wind, LLC",TX,San Patricio,MIDWY,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,162.9,162.9,162.9,8,2019,47,Gamesa,G132-5.0,16.4,2,275.6
+56201,Engie North America,61782,Live Oak Wind Project,TX,Schleicher,WTGS,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,199.5,199.5,199.5,3,2019,76,Siemens,SWT-2.625-120,18.6,2,262.0
+61485,"Rio Bravo Windpower, LLC",61865,"Rio Bravo Windpower, LLC",TX,Starr,1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,237.6,237.6,237.6,6,2019,66,Vestas,V136-3.45,15.2,2,105.0
+61527,"Tahoka Wind, LLC",61921,Tahoka Wind,TX,Lynn,TAH,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,300.0,300.0,300.0,12,2018,120,GE,2.5-120,18.5,2,292.0
+61562,"Torrecillas Wind Energy, LLC",61969,"Torrecillas Wind Energy, LLC",TX,Webb,TWE,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,300.0,300.0,300.0,2,2019,121,GE,2.5-120,13.2,1,308.0
+61563,"Blue Summit II Wind, LLC",61970,"Blue Summit II Wind, LLC",TX,Wilbarger,BSII,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,99.4,99.4,99.4,1,2019,85,GE,2.5-120,14.0,3,90.0
+49893,Invenergy Services LLC,62038,Santa Rita East,TX,Irion,STRAE,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,302.4,302.4,302.4,6,2019,120,GE,2.5-127,12.0,3,89.0
+61683,Amadeus Wind LLC,62142,Amadeus Wind Farm,TX,Fisher,AM-TX,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,250.0,250.0,250.0,12,2020,96,GE,2.82-127,15.0,3,292.0
+61727,Reloj del Sol Wind Farm LLC,62207,Reloj del Sol Wind Farm,TX,Zapata,RELOJ,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,209.4,209.4,209.4,5,2021,51,Acciona,AW132/3000,16.3,2,393.7
+56201,Engie North America,62227,"Seymour Hills Wind Project, LLC",TX,Baylor,WTGS,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,30.2,30.2,30.2,5,2019,12,GE,2.5-120,18.8,2,292.0
+65411,Duke Energy Renewables Services,62258,Mesteno,TX,Starr,MES,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,201.6,200.0,200.0,12,2019,56,Vestas,V136-3.45,15.0,2,367.0
+61771,Ranchero Wind Farm LLC,62259,Ranchero Wind Farm LLC,TX,Crockett,RAN,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,300.0,300.0,300.0,9,2019,120,GE,2.5-127,18.3,2,291.9
+61886,"Lockett Windfarm, LLC",62356,Lockett Windfarm,TX,Wilbarger,LOC,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,183.8,183.8,183.8,9,2019,75,GE,2.5-127,18.0,2,89.0
+61942,"Griffin Trail Wind, LLC",62411,Griffin Trail Wind,TX,Knox,GTWND,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,225.6,225.6,225.6,7,2021,80,GE,2.82-127,17.1,3,292.0
+56215,"RWE Renewables Americas, LLC",62416,Cranell Wind Farm LLC,TX,Refugio,WT1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,220.0,220.0,220.0,1,2022,100,Vestas,V120-2.2,14.5,2,301.8
+56215,"RWE Renewables Americas, LLC",62417,Peyton Creek Wind Farm LLC,TX,Matagorda,WT1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,151.2,151.2,151.2,6,2020,48,Acciona,AW125/3000,15.0,2,287.0
+62046,"High Lonesome Wind Power, LLC",62562,"High Lonesome Wind Power, LLC Hybrid",TX,Upton,HILO,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,449.5,449.5,449.5,7,2023,140,Acciona,AW132/3000,18.0,2,398.0
+62046,"High Lonesome Wind Power, LLC",62562,"High Lonesome Wind Power, LLC Hybrid",TX,Upton,HILO2,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,50.0,50.0,50.0,7,2023,22,GE,2.3-116,18.0,2,295.0
+62063,"Blue Summit III Wind, LLC",62566,Blue Summit III Wind,TX,Hardeman,BS3,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,200.2,200.2,200.2,12,2019,82,GE,2.5-100,18.0,3,291.0
+62085,Mesquite Star LLC,62587,Mesquite Star,TX,Nolan,MESQ,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,418.9,418.9,418.9,3,2020,120,Siemens Gamesa,G132-3.465,16.2,2,101.0
+62106,Hidalgo Wind Farm II LLC,62618,Hidalgo Wind Farm II,TX,Hidalgo,WT,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,50.4,50.4,50.4,2,2020,14,Vestas,V136-3.6,19.0,3,367.0
+62113,"Sage Draw Wind, LLC",62620,Sage Draw Wind,TX,Lynn,SD,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,338.4,338.4,338.4,8,2021,120,GE,2.82-127,15.7,2,292.0
+56201,Engie North America,62630,Jumbo Hill Wind Project,TX,Andrews,WTGS1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,160.7,160.7,160.7,3,2020,57,GE,2.82-127,17.7,2,290.0
+58270,GE Wind Energy LLC,62642,GE-Lubbock,TX,Lubbock,GE-P2,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,2.5,2.5,2.5,4,2014,1,GE,2.5-100,15.0,2,262.0
+58270,GE Wind Energy LLC,62642,GE-Lubbock,TX,Lubbock,GE-P3,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,2.8,2.8,2.8,2,2015,1,GE,2.75-120,15.0,2,291.0
+58270,GE Wind Energy LLC,62642,GE-Lubbock,TX,Lubbock,GE-P4,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,3.4,3.4,3.4,4,2021,1,GE,3.8-137,15.0,2,322.0
+62635,Wildcat Creek Wind Farm LLC,62715,Wildcat Creek Wind Farm LLC,TX,Cooke,WCCWF,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,175.3,175.3,175.3,7,2021,51,Gamesa,G126-2.5,17.0,2,308.0
+65905,"El Campo Wind, LLC (Longroad)",62765,El Campo Wind,TX,Knox,CAMPO,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,242.8,242.8,242.8,12,2020,67,Vestas,V150-4.2,16.8,3,344.0
+56215,"RWE Renewables Americas, LLC",62783,Blackjack Creek Wind Farm,TX,Bee,BLKJK,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,239.6,239.6,239.6,5,2023,50,Vestas,V120-2.2,15.7,2,354.0
+62659,BMP Wind LLC,62809,BMP Wind (TX),TX,Callahan,BMP,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,293.3,293.3,293.3,12,2021,93,Siemens Gamesa,SG 4.5-145,14.0,2,303.0
+65411,Duke Energy Renewables Services,62836,Maryneal Windpower,TX,Nolan,MNW,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,182.4,182.4,182.4,7,2021,38,Nordex,N149/4.0-4.5,12.3,2,354.3
+59050,Algonquin Power Co,62853,Maverick Creek Wind,TX,Concho,MVRCK,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,491.6,491.6,491.6,3,2022,127,Vestas,V150-4.2,16.7,3,344.5
+56215,"RWE Renewables Americas, LLC",62855,West Raymond Wind Farm LLC,TX,Willacy,WRAYM,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,239.8,239.8,239.8,10,2021,109,Vestas,V120-2.2,16.6,2,302.0
+56215,"RWE Renewables Americas, LLC",62909,"Raymond Wind Farm, LLC",TX,Willacy,ERAYM,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,200.2,200.2,200.2,6,2021,91,Vestas,V120-2.2,16.8,2,302.0
+64495,Canadian Breaks LLC,63030,"Canadian Breaks, LLC",TX,Deaf Smith,CBRKS,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,210.1,210.1,210.1,12,2019,87,Siemens,SWT-2.3-108,17.0,2,262.0
+56201,Engie North America,63100,Prairie Hill Wind Project,TX,Limestone,WTG,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,300.0,300.0,300.0,12,2020,100,Acciona,AW132/3000,15.7,2,269.0
+56201,Engie North America,63101,Las Lomas Wind Project,TX,Zapata,WTG,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,201.6,201.6,201.6,12,2020,48,Goldwind,GW155/4200,16.5,3,361.0
+62993,"Aviator Wind, LLC",63209,Aviator Wind,TX,Coke,AVTOR,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,525.0,525.0,525.0,6,2021,191,GE,2.85-100,15.9,1,285.0
+57416,"Acciona Energy USA Global, LLC",63624,"La Chalupa, LLC",TX,Cameron,LC,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,198.5,198.5,198.5,6,2021,63,Acciona,AW125/3000,16.3,2,280.0
+57170,"EDF Renewable Asset Holdings, Inc.",63655,Coyote Wind LLC,TX,Scurry,COY,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,242.5,242.5,242.5,1,2021,59,Siemens Gamesa,SG 4.5-145,15.6,3,352.7
+63437,"Helena Wind, LLC",63738,Helena Wind,TX,Bee,HEL,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,268.2,268.2,268.2,6,2022,180,Vestas,V150-4.2,16.0,3,344.4
+63431,"Las Majadas Wind Farm, LLC",63739,Las Majadas Wind Farm,TX,Willacy,LMAJ,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,272.6,272.6,272.6,3,2021,125,Vestas,V120-2.2,15.0,3,302.0
+63773,Orsted Onshore North America,64149,"Western Trail Wind, LLC",TX,Wilbarger,WTW,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,366.6,366.6,366.6,4,2022,130,GE,2.82-127,15.5,4,90.0
+56201,Engie North America,64165,Priddy Wind Project,TX,Mills,WTG1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,302.4,302.4,302.4,1,2022,63,Nordex,N149/4.0-4.5,18.6,2,489.0
+64209,"El Algodon Alto Wind Farm, LLC",64591,"El Algodon Alto Wind Farm, LLC",TX,San Patricio,EEA,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,200.2,200.2,200.2,5,2022,91,Vestas,V120-2.2,16.3,2,301.8
+64251,TG East Wind Project LLC,64639,TG East,TX,Knox,ESCA,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,336.0,336.0,336.0,4,2022,63,Vestas,V162-5.6,18.0,2,119.0
+64976,Great Prairie Wind LLC,64665,Great Prairie Wind,TX,Hansford,GR01,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,1027.0,1027.0,1027.0,11,2022,365,GE,2.82-127,19.8,2,292.0
+64288,"White Mesa Wind, LLC",64710,White Mesa Wind,TX,Crockett,WM001,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,500.6,500.6,500.6,10,2021,180,GE,2.82-127,12.4,2,291.9
+64468,Hubbard Wind LLC,65048,Hubbard Wind,TX,Limestone,HW001,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,300.0,300.0,300.0,11,2021,108,GE,2.82-127,13.4,2,291.9
+64533,"Lacy Creek Wind, LLC",65162,Lacy Creek Wind Energy Center,TX,Sterling,LCW1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,301.3,301.3,301.3,12,2022,108,GE,2.82-127,12.0,2,374.0
+64611,"Limestone Wind Project, LLC",65306,Limestone Wind Project,TX,Navarro,LIMEW,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,299.2,299.2,299.2,12,2022,88,GE,3.8-137,16.8,3,384.0
+64655,"Appaloosa Run Wind, LLC",65335,Appaloosa Run Wind,TX,Upton,WAPPA,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,171.8,171.8,171.8,12,2022,62,GE,2.82-127,12.0,3,291.0
+64847,"Inertia Wind Project, LLC",65546,Inertia Wind Project,TX,Haskell,WINER,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,301.0,301.0,301.0,1,2023,108,GE,2.82-127,12.0,2,291.0
+65013,"Young Wind, LLC",65763,Young Wind,TX,Young,WYOUN,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,500.0,500.0,500.0,12,2022,177,GE,2.82-127,12.0,2,374.0
+65044,"Castle Gap Wind Power, LLC",65790,Castle Gap Wind,TX,Mills,CGWIN,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,196.8,196.8,196.8,10,2023,41,Nordex,N149/4.0-4.5,17.5,2,324.0
+65408,"King Creek Wind Farm 1, LLC",66321,"King Creek Wind Farm 1, LLC",TX,Haskell,KC1,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,184.0,184.0,184.0,4,2022,47,Siemens Gamesa,SG 5.0-145,18.3,2,102.5
+65409,"King Creek Wind Farm 2, LLC",66323,"King Creek Wind Farm 2, LLC",TX,Throckmorton,KC2,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,209.0,209.0,209.0,4,2022,49,Siemens Gamesa,SG 5.0-145,18.8,2,102.5
+65578,Shamrock Wind LLC,66540,Shamrock Wind,TX,Crockett,WSHAM,OP,Onshore Wind Turbine,WT,IPP Non-CHP,2,223.9,223.9,223.9,12,2023,81,GE,2.82-127,19.0,1,114.0
